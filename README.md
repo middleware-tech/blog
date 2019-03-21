@@ -14,5 +14,5 @@
 ***
 
 <div align=center>
-  <img width = '150' height ='150' src ="https://github.com/middleware-tech/blog/blob/master/resource/img/weixinma.jpg"/>
+  <img width = '180' height ='180' src ="https://github.com/middleware-tech/blog/blob/master/resource/img/weixinma.jpg"/>
 </div>
