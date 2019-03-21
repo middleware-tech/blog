@@ -1,6 +1,6 @@
 ### [技术博客](https://github.com/middleware-tech/blog/wiki)
-* Java
-* Spring
+* [Java](https://github.com/middleware-tech/blog/wiki/Java)
+* [Spring](https://github.com/middleware-tech/blog/wiki/Spring)
 * Mybatis
 * Dubbo
 * RocketMQ
