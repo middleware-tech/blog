@@ -59,9 +59,17 @@ Spring-boot
 
 ### [Nginx](https://github.com/middleware-tech/blog/wiki/Nginx)
 ***
-```
-反向代理、负载均衡、静态资源访问
-```
+
+* [正向代理和反向代理](https://github.com/middleware-tech/blog/wiki/正向代理和反向代理)
+* [Nginx简介](https://github.com/middleware-tech/blog/wiki/nginx简介)
+* [Nginx请求路由规则](https://github.com/middleware-tech/blog/wiki/nginx请求路由规则)
+* [Nginx负载均衡](https://github.com/middleware-tech/blog/wiki/nginx负载均衡)
+
+* [Nginx](http://nginx.org/en/)
+* [Converting rewrite rules](http://nginx.org/en/docs/http/converting_rewrite_rules.html)
+* [Command-line parameters](http://nginx.org/en/docs/switches.html)
+* [Development guide](http://nginx.org/en/docs/dev/development_guide.html)
+* [Configuring HTTPS servers](http://nginx.org/en/docs/http/configuring_https_servers.html)
 
 ### [Redis](https://github.com/middleware-tech/blog/wiki/Redis)
 ***
