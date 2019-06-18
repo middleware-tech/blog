@@ -57,6 +57,12 @@ Spring-boot
 架构设计、核心组件、源码分析、性能优化
 ```
 
+### [Nginx](https://github.com/middleware-tech/blog/wiki/Nginx)
+***
+```
+反向代理、负载均衡、静态资源访问
+```
+
 ### [Redis](https://github.com/middleware-tech/blog/wiki/Redis)
 ***
 ```
@@ -69,11 +75,6 @@ Spring-boot
 索引原理、最佳实践、SQL优化
 ```
 
-### [Kit](https://github.com/middleware-tech/blog/wiki/Kit)
-***
-```
-方法和效率
-```
 
 ***
 <div align=center>
