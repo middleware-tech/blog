@@ -1,8 +1,26 @@
 ### [Java](https://github.com/middleware-tech/blog/wiki/Java)
 ***
-```
-JVM NIO JUC 数据结构 算法
-```
+
+* [Java 官方文档](https://docs.oracle.com/en/java/javase/)
+* [Java8 新特性](https://www.ibm.com/developerworks/cn/java/j-lo-jdk8newfeature/index.html)
+* [Java9 新特性](https://www.ibm.com/developerworks/cn/java/the-new-features-of-Java-9/index.html)
+* [Java10 新特性](https://www.ibm.com/developerworks/cn/java/the-new-features-of-Java-10/index.html)
+* [Java11 新特性](https://www.ibm.com/developerworks/cn/java/the-new-features-of-Java-11/index.html)
+
+* [JVM Run-Time Data Areas](https://github.com/middleware-tech/blog/wiki/JVM-Run-Time-Data-Areas)
+* [JVM 命令参数](https://github.com/middleware-tech/blog/wiki/JVM-命令参数)
+
+* [BitSet](https://github.com/middleware-tech/blog/wiki/BitSet)
+* [HashMap](https://github.com/middleware-tech/blog/wiki/HashMap)
+
+* [线程池大小设置](https://github.com/middleware-tech/blog/wiki/线程池大小设置)
+* [线程上下文切换](https://github.com/middleware-tech/blog/wiki/线程上下文切换)
+
+* [Streams API](https://www.ibm.com/developerworks/cn/java/j-lo-java8streamapi/)
+* [Streams 详解](https://colobu.com/2016/03/02/Java-Stream/)
+
+* [位运算](https://github.com/middleware-tech/blog/wiki/位运算)
+* [限流算法](https://github.com/middleware-tech/blog/wiki/限流算法)
 
 ### [Spring](https://github.com/middleware-tech/blog/wiki/Spring)
 ***
